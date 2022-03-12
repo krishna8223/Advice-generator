@@ -7,10 +7,6 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ![](./screenshot.png)
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
 
